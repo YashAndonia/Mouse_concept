@@ -1,4 +1,17 @@
-This is just a design I've come up with.
+What do you think about when you hear the word 'mouse'?
+If the animal is the first thing in mind, you're in the wrong place : D
+
+But, I see it as an input method, which has not chaged inn any form over the past 10- 15 years at all.
+That is what I beieve I can change.
+I feel that a new way of entering input needs to exist, and this is it.
+
+
+
+This is a new mouse design I've come up with.
+
+
+
+
 It consists of 3 photodiode sensors/pressure sensors and an LED setup, to function as a touch-screen like device for accepting input, from the user.
 
 Let us consider a user holding a mouse in it's rest state.
