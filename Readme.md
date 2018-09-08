@@ -1,3 +1,5 @@
+# Mouse_concept
+
 What do you think about when you hear the word 'mouse'?
 If the animal is the first thing in mind, you're in the wrong place : D
 
@@ -9,10 +11,10 @@ I feel that a new way of entering input needs to exist, and this is it.
 
 This is a new mouse design I've come up with.
 
+![demo](https://user-images.githubusercontent.com/26602639/45257122-90d77e80-b3be-11e8-9331-e9bfce973012.PNG)
 
 
-
-It consists of 3 photodiode sensors/pressure sensors and an LED setup, to function as a touch-screen like device for accepting input, from the user.
+It consists of 3 photodiode sensors/pressure sensors and an LED setup(green in the image above), to function as a touch-screen like device for accepting input, from the user. The red parts indicate possible positions of proximity sensors, to identify whether or not a palm is placed above it.
 
 Let us consider a user holding a mouse in it's rest state.
 
@@ -86,5 +88,8 @@ So, we need a circuit to identify when this transition occurs.
 
 The same implementation can be done in case of a pressure sensor, where the circuit within gives logical high(1) when the pressure is released.
 
+# The digital logic I've produced for this circuit:
+![Demo](https://user-images.githubusercontent.com/26602639/45257118-7c938180-b3be-11e8-8139-24afeeffa443.png)
 
-s
+# Steps to Operate:
+Run the given proteus code on the Proteus design suite, upon testing the required cases, we will get the required output.
